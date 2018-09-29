@@ -1,0 +1,23 @@
+img {border: solid 5px black; width: 20%; }
+
+body {background-color: #339966; }
+
+main {width: 80%; margin: 0 auto;   }
+
+header {text-align: center;   }
+
+section {clear: both;   }
+
+/* I think I understand the basic idea of the coding, but I haven't quite figured out how to make things 'float' or line up the way I want them to.  I was trying to have the images sit to the left of the text, and lined up in one column. */
+
+aside {float: right; width 29%;   }
+
+article {float: left; width 70%;  }
+
+p {color: #003300; font-size 20; font-family: Helvetica; vertical-align: top; text-align: left; font-weight: bold;  }
+
+h1 {font-family: Helvetica; font-size: 24; font-weight: bold; }
+
+h2 {font-family: Helvetica; font-size: 20;  font-weight; bold; }
+
+h3 {font-family: helvetica; font-size 18; font-style: italic; font-weight: bold;   }

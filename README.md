@@ -1,2 +1,1 @@
-# infographic
-Infographic Sept 28 2018
+# How-To-Plant-Tree
